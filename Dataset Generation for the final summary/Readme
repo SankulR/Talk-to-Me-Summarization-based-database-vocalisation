@@ -1,2 +1,2 @@
 
-Executing data_generator.py will generate the dataset desiered from the WikiSQL database file (zipped).
+Executing data_generator.py will generate the desiered csv files from the WikiSQL database file (zipped).
